@@ -1,0 +1,94 @@
+{
+  "form": {
+    "title": "Json Create Form",
+    "fields": [
+    {
+        "type": "imageview",
+        "placeholder": "img_avatar",
+        "layout": {
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#000000",
+          "borderWidth": 1
+        }
+      },
+      {
+        "type": "label",
+        "text": "Name:"
+       
+      },
+      {
+        "type": "textfield",
+        "placeholder": "Enter your Name",
+        "layout": {
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#000000",
+          "borderWidth": 1
+        }
+      },
+      {
+        "type": "label",
+        "text": "Email:"
+        
+      },
+      {
+        "type": "textfield",
+        "placeholder": "Enter your Email",
+        "layout": {
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#000000",
+          "borderWidth": 1
+        }
+      },
+        {
+        "type": "label",
+        "text": "Address:"
+       
+      },
+      {
+        "type": "textfield",
+        "placeholder": "Enter your Address",
+        "layout": {
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#000000",
+          "borderWidth": 1
+        }
+      },
+      {
+        "type": "toggle",
+        "text": "You Are Active?",
+        "layout": {
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#000000",
+          "borderWidth": 1
+        }
+      },
+      {
+        "type": "datepicker",
+        "text": "Select Date",
+      },
+      {
+        "type": "label",
+        "text": "Select Gender"
+        
+      },
+      {
+        "type": "segment",
+        "items": ["Male", "Female", "Other"],
+        "text": "",
+        "layout": {
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#000000",
+          "borderWidth": 1
+        }
+      },
+      {
+        "type": "button",
+        "text": "Submit",
+        "layout": {
+          "backgroundColor": "#0066FF",
+          "textColor": "#6b0103"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "86ED3B85-8BE6-4465-ADD0-D68B64DF8CC0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "391840CF-37B8-4BFB-8746-39BF29887D8D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalizationTask/View/Controller/SecondVC/SecondVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1C9F5B4-C8C1-4E89-8456-D21F40ABB00D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalizationTask/View/Controller/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "openOptions()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E1C9F5B4-C8C1-4E89-8456-D21F40ABB00D - 309c8709409b1430"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (__C.UIAlertAction) -&gt; () in LocalizationTask.HomeVC.openOptions() -&gt; ()"
+                  moduleName = "LocalizationTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubhamramani/Desktop/7:3/LocalizationTask/LocalizationTask/View/Controller/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "1120">
+               </Location>
+               <Location
+                  uuid = "E1C9F5B4-C8C1-4E89-8456-D21F40ABB00D - 309c8709409b15ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (__C.UIAlertAction) -&gt; () in LocalizationTask.HomeVC.openOptions() -&gt; ()"
+                  moduleName = "LocalizationTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubhamramani/Desktop/7:3/LocalizationTask/LocalizationTask/View/Controller/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "1152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5E8DA47-9215-48BA-9C6B-2E7ACF357D5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalizationTask/View/Controller/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "openOptions()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B5E8DA47-9215-48BA-9C6B-2E7ACF357D5F - 309c8709409b1b5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (__C.UIAlertAction) -&gt; () in LocalizationTask.HomeVC.openOptions() -&gt; ()"
+                  moduleName = "LocalizationTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubhamramani/Desktop/7:3/LocalizationTask/LocalizationTask/View/Controller/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "684">
+               </Location>
+               <Location
+                  uuid = "B5E8DA47-9215-48BA-9C6B-2E7ACF357D5F - 309c8709409b1b5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (__C.UIAlertAction) -&gt; () in LocalizationTask.HomeVC.openOptions() -&gt; ()"
+                  moduleName = "LocalizationTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubhamramani/Desktop/7:3/LocalizationTask/LocalizationTask/View/Controller/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "944">
+               </Location>
+               <Location
+                  uuid = "B5E8DA47-9215-48BA-9C6B-2E7ACF357D5F - 5a4d38cc9cfb74a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in closure #3 (__C.UIAlertAction) -&gt; () in LocalizationTask.HomeVC.openOptions() -&gt; ()"
+                  moduleName = "LocalizationTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubhamramani/Desktop/7:3/LocalizationTask/LocalizationTask/View/Controller/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
